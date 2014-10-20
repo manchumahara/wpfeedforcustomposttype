@@ -18,12 +18,12 @@ RSS Feed Manager for Custom Post Types is a WordPress plugin that will give you 
 
 Features:
 
-*   Supports all post types including built-in and custom post types
-*   Supports all taxonomy including custom and built-in taxonomy types
-*   Enable/Disable for any post type
-*   Enable/Disable any taxonomy
+*   Display Your Custom Post Types in RSS Feed with Default Posts
+*   Custom Plugin Option
+*   All Categories have Enable/Disable Option
+*   Select any post type including custom or default post type
 
-See more details and usages guide here http://codeboxr.com/product/custom-taxonomy-filter-in-wordpress-admin-post-listing
+See more details and usages guide here http://codeboxr.com/product/rss-feed-manager-for-custom-post-types
 
 
 == Installation ==
@@ -31,10 +31,10 @@ See more details and usages guide here http://codeboxr.com/product/custom-taxono
 How to install the plugin and get it working.
 
 
-1. Upload `customtaxfilterinadmin` folder  to the `/wp-content/plugins/` directory
+1. Upload `wpfeedforcustomposttype` folder  to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. From 'Setting' menu see sub menu 'Custom Tax Filter', save setting
-4. Go to any post listing from admin panel and check the new dropdown list for the custom taxonomy, also it works for existing taxonomy
+3. From 'Setting' menu see sub menu 'RSS 4 Post Types', save setting
+4. Check feeds, feed will shows post from post types as selected from the plugin setting
 
 
 == Frequently Asked Questions ==
@@ -53,13 +53,13 @@ Sure, just try it.
 
 == Screenshots ==
 
-1. Activate
-2. Access from setting menu
-3. Setting
-4. Custom Taxonomy Drop down in action
+1. In plugin listing
+2. Setting menu
+3. Plugin Option Panel
+
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 * First Release
 
