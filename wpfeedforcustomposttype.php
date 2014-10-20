@@ -92,7 +92,7 @@ function wpfeedforcustomposttype_admin()
     global $wpfeedforcustomposttype_hook, $wpfeedforcustomposttype;
     //add_options_page(page_title, menu_title, access_level/capability, file, [function]);
     if (function_exists('add_options_page')) {
-            $page_hook = add_options_page('RSS for Custom Posts types', 'RSS 4 Posts Types', 8, 'wpfeedforcustomposttype', 'wpfeedforcustomposttype_admin_option');
+            $page_hook = add_options_page('RSS for Custom Posts types', 'RSS 4 Posts Types', 'manage_options', 'wpfeedforcustomposttype', 'wpfeedforcustomposttype_admin_option');
     }    
     
 
