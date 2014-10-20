@@ -1,7 +1,7 @@
 === Codeboxr RSS Feed for custom post types ===
 Contributors: manchumahara, codeboxr
 Donate link: http://codeboxr.com
-Tags: custom taxonomy, admin filter
+Tags: custom post types, rss
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: 1.0
